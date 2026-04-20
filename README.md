@@ -36,17 +36,13 @@
 <div align="center">
   <p align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,angular,express,react,nextjs,ts,js&perline=5" alt="Core Technologies"/>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=azure,linux,git,github,supabase,postman,apidog,mysql&perline=5" alt="DevOps and Databases"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,laravel,supabase,mongodb,sqlite&perline=5" alt="Frontend and Others"/>
-  </a>
-</p>
+  </p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=azure,linux,git,github,supabase,mongodb,postman,mysql&perline=5" alt="DevOps and Databases"/>
+  </p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind&perline=5" alt="Frontend and Others"/>
+  </p>
 
 </div>
 
