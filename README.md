@@ -1,7 +1,7 @@
 <div align="center">
   
   <h1>Hi! I'm Manuel Vásquez</h1>
-  <h3>Software Developer | Angular • .NET • Java • Python</h3>
+  <h3>Software Developer | JavaScript • Python</h3>
   <p>📍 Barranquilla, Colombia | Passionate about SOLID principles & Clean Architecture</p>
 
   <p align="center">
